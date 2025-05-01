@@ -6,7 +6,7 @@ An interactive Excel dashboard that breaks down a coffee shop’s sales performa
 ![Dashboard Screenshot](Screenshot%202025-05-01%20130615.png)
 
 ---
-[Coffee Shop Sales Dashboard.xlsx](files/Coffee%20Shop%20Sales%20Dashboard.xlsx)
+[Coffee Shop Sales Dashboard.xlsx](https://github.com/khushimalik3122/coffee-sales-dashboard-/blob/main/Coffee%20Shop%20Sales%20Dashboard.xlsx)
 ---
 
 ## 📌 Project Highlights
